@@ -1,0 +1,14 @@
+[25-Jul-2014 09:55:26 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/slider_new.php on line 8
+[25-Jul-2014 09:55:27 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/slides.php on line 8
+[25-Jul-2014 09:55:28 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/sliders.php on line 12
+[25-Jul-2014 09:55:31 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[04-Feb-2015 02:25:52 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/sliders_list.php on line 5
+[04-Feb-2015 03:21:41 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/slider_edit.php on line 8
+[04-Feb-2015 03:27:28 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/slider_new.php on line 8
+[04-Feb-2015 08:20:33 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/slides.php on line 8
+[04-Feb-2015 09:21:38 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/slide.php on line 19
+[04-Feb-2015 13:10:08 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/edit_layers.php on line 5
+[04-Feb-2015 14:50:35 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/slider_toolbox.php on line 3
+[05-Feb-2015 16:26:48 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/slides_list.php on line 4
+[06-Feb-2015 12:41:53 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/sliders.php on line 12
+[06-Feb-2015 19:56:06 America/Mexico_City] PHP Fatal error:  Call to undefined function _e() in /home/tepetoci/public_html/wp-content/plugins/revslider/views/templates/slider_api.php on line 6

@@ -1,0 +1,8 @@
+[13-Feb-2015 04:33:52 America/Mexico_City] PHP Fatal error:  Class 'WP_Widget' not found in /home/tepetoci/public_html/wp-content/plugins/revslider/inc_php/revslider_widget.class.php on line 3
+[13-Feb-2015 04:33:53 America/Mexico_City] PHP Fatal error:  Class 'UniteBaseFrontClassRev' not found in /home/tepetoci/public_html/wp-content/plugins/revslider/revslider_front.php on line 3
+[13-Feb-2015 04:35:18 America/Mexico_City] PHP Fatal error:  Class 'UniteBaseAdminClassRev' not found in /home/tepetoci/public_html/wp-content/plugins/revslider/revslider_admin.php on line 3
+[10-Apr-2015 18:13:58 America/Mexico_City] PHP Fatal error:  Class 'UniteBaseFrontClassRev' not found in /home/tepetoci/public_html/wp-content/plugins/revslider/revslider_front.php on line 3
+[18-Apr-2015 23:12:53 America/Mexico_City] PHP Fatal error:  Class 'WP_Widget' not found in /home/tepetoci/public_html/wp-content/plugins/revslider/inc_php/revslider_widget.class.php on line 3
+[20-Apr-2015 00:44:14 America/Mexico_City] PHP Fatal error:  Class 'UniteBaseAdminClassRev' not found in /home/tepetoci/public_html/wp-content/plugins/revslider/revslider_admin.php on line 3
+[20-Apr-2015 04:07:48 America/Mexico_City] PHP Fatal error:  Class 'WP_Widget' not found in /home/tepetoci/public_html/wp-content/plugins/revslider/inc_php/revslider_widget.class.php on line 3
+[23-Jul-2015 01:53:46 America/Mexico_City] PHP Fatal error:  Class 'UniteBaseAdminClassRev' not found in /home/tepetoci/public_html/wp-content/plugins/revslider/revslider_admin.php on line 3

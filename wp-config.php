@@ -16,10 +16,10 @@
 
 // ** Ajustes de MySQL. Solicita estos datos a tu proveedor de alojamiento web. ** //
 /** El nombre de tu base de datos de WordPress */
-define('DB_NAME', 'tepetoci_site');
+define('DB_NAME', 'tepetoci');
 
 /** Tu nombre de usuario de MySQL */
-define('DB_USER', 'tepetoci_admin');
+define('DB_USER', 'tepetoci');
 
 /** Tu contraseña de MySQL */
 define('DB_PASSWORD', 'Tepetoci45');
@@ -89,3 +89,4 @@ if ( !defined('ABSPATH') )
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
 
+define('FS_METHOD', 'direct');
